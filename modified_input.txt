@@ -1,0 +1,5 @@
+1: The quick brown fox jumps over the lazy dog.
+2: Python is a powerful and versatile programming language.
+3: File processing is an essential skill in programming.
+4: This text will be converted to uppercase by our script.
+5: Learning to manipulate files opens up many possibilities for automation.
